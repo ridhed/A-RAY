@@ -1,0 +1,1001 @@
+gender,tools,level of education,mental health,test mode,score before pandemic,score after pandemic,aggregate score
+female,Computer,bachelor's degree,normal,online,72,72,72
+female,Mobile,college,normal,offline,69,90,79.5
+female,Computer,college,normal,online,90,95,92.5
+male,Tablet,associate's degree,stressed,online,47,57,52
+male,Mobile,college,normal,online,76,78,77
+female,Computer,associate's degree,normal,online,71,83,77
+female,Computer,college,normal,offline,88,95,91.5
+male,Computer,college,stressed,online,40,43,41.5
+male,Laptop,school,stressed,offline,64,64,64
+female,Computer,school,stressed,online,38,60,49
+male,Mobile,associate's degree,normal,online,58,54,56
+male,Laptop,associate's degree,normal,online,40,52,46
+female,Computer,school,normal,online,65,81,73
+male,Tablet,college,normal,offline,78,72,75
+female,Tablet,college,normal,online,50,53,51.5
+female,Mobile,some school,normal,online,69,75,72
+male,Mobile,school,normal,online,88,89,88.5
+female,Computer,some school,stressed,online,18,32,25
+male,Mobile,college,stressed,offline,46,42,44
+female,Mobile,associate's degree,stressed,online,54,58,56
+male,Laptop,school,normal,online,66,69,67.5
+female,Computer,college,stressed,offline,65,75,70
+male,Laptop,college,normal,online,44,54,49
+female,Mobile,some school,normal,online,69,73,71
+male,Laptop,bachelor's degree,stressed,offline,74,71,72.5
+male,Tablet,college,stressed,online,73,74,73.5
+male,Computer,college,normal,online,69,54,61.5
+female,Mobile,bachelor's degree,normal,online,67,69,68
+male,Mobile,school,normal,online,70,70,70
+female,Laptop,college,normal,online,62,70,66
+female,Laptop,college,normal,online,69,74,71.5
+female,Computer,college,normal,online,63,65,64
+female,Mobile,college,stressed,online,56,72,64
+male,Laptop,college,normal,online,40,42,41
+male,Mobile,college,normal,online,97,87,92
+male,Mobile,associate's degree,normal,offline,81,81,81
+female,Laptop,associate's degree,normal,online,74,81,77.5
+female,Laptop,some school,stressed,online,50,64,57
+female,Laptop,associate's degree,stressed,offline,75,90,82.5
+male,Computer,associate's degree,stressed,online,57,56,56.5
+male,Mobile,associate's degree,stressed,online,55,61,58
+female,Mobile,associate's degree,normal,online,58,73,65.5
+female,Computer,associate's degree,normal,online,53,58,55.5
+male,Computer,college,stressed,offline,59,65,62
+female,Mobile,associate's degree,stressed,online,50,56,53
+male,Computer,associate's degree,normal,online,65,54,59.5
+female,Tablet,associate's degree,normal,offline,55,65,60
+female,Mobile,school,normal,online,66,71,68.5
+female,Laptop,associate's degree,stressed,offline,57,74,65.5
+male,Mobile,school,normal,offline,82,84,83
+male,Mobile,college,normal,online,53,55,54
+male,Mobile,associate's degree,stressed,offline,77,69,73
+male,Mobile,college,normal,online,53,44,48.5
+male,Laptop,school,normal,online,88,78,83
+female,Mobile,some school,stressed,offline,71,84,77.5
+female,Mobile,school,stressed,online,33,41,37
+female,Mobile,associate's degree,normal,offline,82,85,83.5
+male,Laptop,associate's degree,normal,online,52,55,53.5
+male,Laptop,college,normal,offline,58,59,58.5
+female,Mobile,some school,stressed,online,0,17,8.5
+male,Mobile,bachelor's degree,stressed,offline,79,74,76.5
+male,Tablet,some school,stressed,online,39,39,39
+male,Tablet,associate's degree,stressed,online,62,61,61.5
+female,Mobile,associate's degree,normal,online,69,80,74.5
+female,Laptop,some school,normal,online,59,58,58.5
+male,Computer,some school,normal,online,67,64,65.5
+male,Laptop,some school,stressed,online,45,37,41
+female,Mobile,college,normal,online,60,72,66
+male,Computer,associate's degree,stressed,online,61,58,59.5
+female,Mobile,associate's degree,normal,online,39,64,51.5
+female,Laptop,college,stressed,offline,58,63,60.5
+male,Laptop,college,normal,offline,63,55,59
+female,Tablet,associate's degree,stressed,online,41,51,46
+male,Mobile,some school,stressed,online,61,57,59
+male,Mobile,some school,normal,online,49,49,49
+male,Computer,associate's degree,stressed,online,44,41,42.5
+male,Mobile,some school,normal,online,30,26,28
+male,Tablet,bachelor's degree,normal,offline,80,78,79
+female,Laptop,some school,normal,offline,61,74,67.5
+female,Mobile,college,normal,online,62,68,65
+female,Computer,associate's degree,normal,online,47,49,48
+male,Computer,school,stressed,online,49,45,47
+male,Tablet,college,stressed,offline,50,47,48.5
+male,Mobile,associate's degree,normal,online,72,64,68
+male,Laptop,school,stressed,online,42,39,40.5
+female,Mobile,college,normal,online,73,80,76.5
+female,Mobile,college,stressed,online,76,83,79.5
+female,Laptop,associate's degree,normal,online,71,71,71
+female,Tablet,college,normal,online,58,70,64
+female,Laptop,some school,normal,online,73,86,79.5
+female,Mobile,bachelor's degree,normal,online,65,72,68.5
+male,Mobile,school,stressed,online,27,34,30.5
+male,Mobile,school,normal,online,71,79,75
+male,Mobile,associate's degree,stressed,offline,43,45,44
+female,Computer,college,normal,online,79,86,82.5
+male,Mobile,associate's degree,stressed,offline,78,81,79.5
+male,Computer,some school,normal,offline,65,66,65.5
+female,Mobile,college,normal,offline,63,72,67.5
+female,Laptop,college,stressed,online,58,67,62.5
+female,Laptop,bachelor's degree,normal,online,65,67,66
+male,Computer,college,normal,online,79,67,73
+male,Laptop,bachelor's degree,normal,offline,68,74,71
+female,Laptop,associate's degree,normal,online,85,91,88
+male,Computer,school,normal,offline,60,44,52
+male,Mobile,college,normal,offline,98,86,92
+female,Mobile,college,normal,online,58,67,62.5
+female,Laptop,college,normal,online,87,100,93.5
+male,Mobile,associate's degree,normal,offline,66,63,64.5
+female,Computer,associate's degree,stressed,online,52,76,64
+female,Computer,some school,normal,online,70,64,67
+female,Laptop,associate's degree,stressed,offline,77,89,83
+male,Mobile,school,normal,online,62,55,58.5
+male,Tablet,associate's degree,normal,online,54,53,53.5
+female,Laptop,college,normal,online,51,58,54.5
+female,Mobile,bachelor's degree,normal,offline,99,100,99.5
+male,Mobile,school,normal,online,84,77,80.5
+female,Computer,bachelor's degree,stressed,online,75,85,80
+female,Laptop,bachelor's degree,normal,online,78,82,80
+female,Laptop,some school,normal,online,51,63,57
+female,Mobile,college,normal,online,55,69,62
+female,Mobile,bachelor's degree,normal,offline,79,92,85.5
+male,Computer,associate's degree,normal,offline,91,89,89
+female,Mobile,college,normal,offline,88,93,90.5
+male,Laptop,school,stressed,online,63,57,60
+male,Mobile,college,normal,online,83,80,81.5
+female,Computer,school,normal,online,87,95,91
+male,Computer,some school,normal,online,72,68,70
+male,Laptop,college,normal,offline,65,77,71
+male,Laptop,college,normal,online,82,82,82
+female,Tablet,bachelor's degree,normal,online,51,49,50
+male,Laptop,college,normal,online,89,84,86.5
+male,Mobile,some school,stressed,offline,53,37,45
+male,Mobile,college,stressed,offline,87,74,80.5
+female,Mobile,college,normal,offline,75,81,78
+male,Laptop,bachelor's degree,stressed,offline,74,79,76.5
+male,Mobile,bachelor's degree,normal,online,58,55,56.5
+male,Computer,some school,normal,offline,51,54,52.5
+male,Mobile,school,normal,online,70,55,62.5
+female,Mobile,associate's degree,normal,online,59,66,62.5
+male,Laptop,college,normal,offline,71,61,66
+female,Laptop,some school,normal,online,76,72,74
+female,Mobile,college,stressed,online,59,62,60.5
+female,Mobile,college,stressed,offline,42,55,48.5
+male,Tablet,school,normal,online,57,43,50
+male,Laptop,college,normal,online,88,73,80.5
+female,Mobile,college,stressed,online,22,39,30.5
+male,Computer,some school,normal,online,88,84,86
+male,Mobile,associate's degree,stressed,online,73,68,70.5
+female,Laptop,bachelor's degree,normal,offline,68,75,71.5
+male,Mobile,associate's degree,stressed,offline,100,100,100
+male,Tablet,some school,normal,offline,62,67,64.5
+male,Tablet,bachelor's degree,normal,online,77,67,72
+female,Computer,associate's degree,normal,offline,59,70,64.5
+male,Laptop,bachelor's degree,normal,online,54,49,51.5
+male,Laptop,some school,normal,online,62,67,64.5
+female,Mobile,college,normal,offline,70,89,79.5
+female,Mobile,school,stressed,offline,66,74,70
+male,Computer,college,stressed,online,60,60,60
+female,Computer,associate's degree,normal,offline,61,86,73.5
+male,Laptop,associate's degree,stressed,online,66,62,64
+male,Computer,associate's degree,stressed,offline,82,78,80
+female,Mobile,college,stressed,offline,75,88,81.5
+male,Computer,college,stressed,online,49,53,51
+male,Mobile,school,normal,online,52,53,52.5
+female,Mobile,college,normal,online,81,92,86.5
+female,Mobile,bachelor's degree,normal,offline,96,100,98
+male,Mobile,school,stressed,offline,53,51,52
+female,Computer,college,stressed,offline,58,76,67
+female,Computer,school,normal,offline,68,83,75.5
+female,Mobile,college,stressed,offline,67,75,71
+male,Tablet,school,normal,offline,72,73,72.5
+male,Mobile,some school,normal,online,94,88,91
+female,Laptop,college,normal,online,79,86,82.5
+female,Mobile,associate's degree,normal,online,63,67,65
+female,Mobile,bachelor's degree,stressed,offline,43,51,47
+female,Mobile,college,normal,offline,81,91,86
+female,Computer,school,stressed,offline,46,54,50
+female,Mobile,associate's degree,normal,offline,71,77,74
+female,Computer,college,stressed,offline,52,70,61
+female,Laptop,some school,normal,offline,97,100,98.5
+male,Mobile,college,stressed,offline,62,68,65
+female,Mobile,college,stressed,online,46,64,55
+female,Mobile,school,normal,online,50,50,50
+female,Laptop,associate's degree,normal,online,65,69,67
+male,Mobile,some school,stressed,offline,45,52,48.5
+male,Mobile,associate's degree,stressed,offline,65,67,66
+male,Mobile,school,normal,online,80,76,78
+male,Laptop,some school,normal,offline,62,66,64
+male,Computer,some school,stressed,online,48,52,50
+female,Mobile,bachelor's degree,normal,online,77,88,82.5
+female,Mobile,associate's degree,normal,online,66,65,65.5
+male,Laptop,college,normal,offline,76,83,79.5
+female,Computer,some school,normal,online,62,64,63
+male,Laptop,college,normal,offline,77,62,69.5
+female,Mobile,college,normal,offline,69,84,76.5
+male,Laptop,associate's degree,normal,online,61,55,58
+male,Mobile,some school,stressed,offline,59,69,64
+male,Mobile,school,stressed,online,55,56,55.5
+female,Computer,college,stressed,online,45,53,49
+female,Computer,bachelor's degree,stressed,online,78,79,78.5
+female,Mobile,associate's degree,normal,offline,67,84,75.5
+female,Laptop,college,stressed,online,65,81,73
+male,Mobile,associate's degree,normal,online,69,77,73
+female,Computer,associate's degree,normal,online,57,69,63
+male,Mobile,college,normal,online,59,41,50
+male,Laptop,some school,normal,offline,74,71,72.5
+male,Mobile,bachelor's degree,normal,online,82,62,72
+male,Mobile,school,normal,offline,81,80,80.5
+female,Computer,college,stressed,online,74,81,77.5
+female,Computer,college,stressed,online,58,61,59.5
+male,Laptop,some school,stressed,offline,80,79,79.5
+male,Mobile,college,stressed,online,35,28,31.5
+female,Mobile,school,stressed,online,42,62,52
+male,Mobile,associate's degree,stressed,offline,60,51,55.5
+male,Mobile,school,normal,offline,87,91,89
+male,Computer,some school,normal,offline,84,83,83.5
+female,Mobile,associate's degree,stressed,offline,83,86,84.5
+female,Mobile,school,stressed,online,34,42,38
+male,Computer,school,stressed,online,66,77,71.5
+male,Computer,some school,normal,offline,61,56,58.5
+female,Laptop,school,normal,offline,56,68,62
+male,Computer,associate's degree,normal,online,87,85,86
+female,Mobile,some school,stressed,online,55,65,60
+male,Laptop,some school,normal,online,86,80,83
+female,Computer,associate's degree,normal,offline,52,66,59
+female,Mobile,college,stressed,online,45,56,50.5
+female,Mobile,college,normal,online,72,72,72
+male,Laptop,school,normal,online,57,50,53.5
+male,Tablet,some school,stressed,online,68,72,70
+female,Mobile,college,normal,offline,88,95,91.5
+male,Laptop,college,normal,online,76,64,70
+male,Mobile,associate's degree,normal,online,46,43,44.5
+female,Computer,bachelor's degree,normal,online,67,86,76.5
+male,Mobile,some school,normal,online,92,87,89.5
+male,Mobile,bachelor's degree,normal,offline,83,82,82.5
+male,Laptop,associate's degree,normal,online,80,75,77.5
+male,Laptop,bachelor's degree,stressed,online,63,66,64.5
+female,Laptop,some school,normal,offline,64,60,62
+male,Computer,college,normal,online,54,52,53
+male,Mobile,associate's degree,normal,online,84,80,82
+male,Laptop,school,stressed,offline,73,68,70.5
+female,Mobile,bachelor's degree,normal,online,80,83,81.5
+female,Laptop,school,normal,online,56,52,54
+male,Mobile,college,normal,online,59,51,55
+male,Laptop,some school,normal,online,75,74,74.5
+male,Mobile,associate's degree,normal,online,85,76,80.5
+male,Mobile,associate's degree,normal,online,89,76,82.5
+female,Computer,school,normal,offline,58,70,64
+female,Computer,school,normal,online,65,64,64.5
+male,Mobile,school,normal,online,68,60,64
+male,Tablet,some school,normal,offline,47,49,48
+female,Laptop,college,stressed,online,71,83,77
+female,Computer,some school,normal,offline,60,70,65
+male,Laptop,college,normal,online,80,80,80
+male,Laptop,school,normal,online,54,52,53
+female,Mobile,college,normal,online,62,73,67.5
+female,Mobile,associate's degree,stressed,online,64,73,68.5
+male,Mobile,associate's degree,normal,offline,78,77,77.5
+female,Computer,college,normal,online,70,75,72.5
+female,Mobile,college,stressed,offline,65,81,73
+female,Mobile,some school,stressed,offline,64,79,71.5
+male,Mobile,college,normal,offline,79,79,79
+female,Mobile,some school,stressed,online,44,50,47
+female,Mobile,school,normal,online,99,93,96
+male,Laptop,school,normal,online,76,73,74.5
+male,Laptop,some school,stressed,online,59,42,50.5
+female,Mobile,bachelor's degree,normal,online,63,75,69
+female,Laptop,school,normal,online,69,72,70.5
+female,Laptop,associate's degree,normal,offline,88,92,90
+female,Mobile,college,stressed,online,71,76,73.5
+male,Mobile,bachelor's degree,normal,online,69,63,66
+male,Mobile,college,normal,online,58,49,53.5
+female,Laptop,associate's degree,stressed,online,47,53,50
+female,Laptop,college,normal,online,65,70,67.5
+male,Computer,college,normal,offline,88,85,86.5
+male,Mobile,bachelor's degree,normal,online,83,78,80.5
+female,Mobile,some school,normal,offline,85,92,88.5
+female,Mobile,school,normal,offline,59,63,61
+female,Mobile,some school,stressed,online,65,86,75.5
+male,Computer,bachelor's degree,stressed,online,73,56,64.5
+male,Laptop,school,normal,online,53,52,52.5
+male,Laptop,school,normal,online,45,48,46.5
+female,Laptop,bachelor's degree,stressed,online,73,79,76
+female,Laptop,college,stressed,offline,70,78,74
+female,Computer,some school,normal,online,37,46,41.5
+male,Computer,associate's degree,normal,offline,81,82,81.5
+male,Mobile,associate's degree,normal,offline,97,82,89.5
+female,Computer,some school,normal,online,67,89,78
+male,Computer,bachelor's degree,stressed,online,88,75,81.5
+male,Mobile,some school,normal,offline,77,76,76.5
+male,Mobile,associate's degree,normal,online,76,70,73
+male,Laptop,some school,normal,online,86,73,79.5
+male,Mobile,some school,normal,offline,63,60,61.5
+female,Mobile,bachelor's degree,normal,online,65,73,69
+male,Laptop,school,stressed,offline,78,77,77.5
+male,Computer,associate's degree,stressed,online,67,62,64.5
+male,Tablet,some school,normal,offline,46,41,43.5
+male,Mobile,associate's degree,normal,offline,71,74,72.5
+male,Mobile,school,stressed,offline,40,46,43
+male,Laptop,associate's degree,stressed,online,90,87,88.5
+male,Tablet,college,stressed,offline,81,78,79.5
+male,Laptop,some school,stressed,online,56,54,55
+female,Mobile,associate's degree,normal,offline,67,84,75.5
+male,Computer,associate's degree,normal,online,80,76,78
+female,Mobile,associate's degree,normal,offline,74,75,74.5
+male,Tablet,college,normal,online,69,67,68
+male,Mobile,college,normal,offline,99,87,93
+male,Mobile,some school,normal,online,51,52,51.5
+female,Computer,associate's degree,stressed,online,53,71,62
+female,Laptop,school,stressed,online,49,57,53
+female,Computer,associate's degree,normal,online,73,76,74.5
+male,Computer,bachelor's degree,normal,online,66,60,63
+male,Laptop,bachelor's degree,normal,offline,67,61,64
+female,Mobile,associate's degree,stressed,offline,68,67,67.5
+female,Mobile,bachelor's degree,normal,offline,59,64,61.5
+male,Mobile,school,normal,online,71,66,68.5
+female,Laptop,college,normal,offline,77,82,79.5
+male,Mobile,associate's degree,normal,online,83,72,77.5
+male,Computer,bachelor's degree,normal,online,63,71,67
+female,Laptop,associate's degree,stressed,online,56,65,60.5
+female,Mobile,school,stressed,offline,67,79,73
+female,Mobile,school,normal,online,75,86,80.5
+female,Mobile,college,normal,online,71,81,76
+female,Mobile,some school,stressed,online,43,53,48
+female,Mobile,school,stressed,online,41,46,43.5
+female,Mobile,college,normal,online,82,90,86
+male,Mobile,college,normal,online,61,61,61
+male,Tablet,college,stressed,online,28,23,25.5
+male,Mobile,associate's degree,normal,offline,82,75,78.5
+female,Computer,some school,normal,online,41,55,48
+male,Mobile,school,normal,online,71,60,65.5
+male,Mobile,associate's degree,normal,online,47,37,42
+male,Mobile,associate's degree,normal,offline,62,56,59
+male,Computer,associate's degree,normal,online,90,78,84
+female,Mobile,bachelor's degree,normal,online,83,93,88
+female,Computer,college,stressed,online,61,68,64.5
+male,Laptop,some school,normal,offline,76,70,73
+male,Mobile,associate's degree,normal,online,49,51,50
+female,Computer,some school,stressed,online,24,38,31
+female,Laptop,some school,stressed,offline,35,55,45
+male,Mobile,school,stressed,online,58,61,59.5
+female,Mobile,school,normal,online,61,73,67
+female,Computer,school,normal,offline,69,76,72.5
+male,Laptop,associate's degree,normal,offline,67,72,69.5
+male,Laptop,college,normal,online,79,73,76
+female,Mobile,school,normal,online,72,80,76
+male,Computer,college,normal,online,62,61,61.5
+female,Mobile,bachelor's degree,normal,offline,77,94,85.5
+male,Laptop,school,stressed,online,75,74,74.5
+male,Mobile,associate's degree,normal,online,87,74,80.5
+female,Computer,bachelor's degree,normal,online,52,65,58.5
+male,Mobile,college,normal,online,66,57,61.5
+female,Mobile,college,normal,offline,63,78,70.5
+female,Mobile,associate's degree,normal,online,46,58,52
+female,Mobile,college,normal,online,59,71,65
+female,Computer,bachelor's degree,normal,online,61,72,66.5
+male,Tablet,associate's degree,normal,online,63,61,62
+female,Mobile,college,stressed,offline,42,66,54
+male,Laptop,college,stressed,online,59,62,60.5
+female,Laptop,college,normal,online,80,90,85
+female,Computer,school,normal,online,58,62,60
+male,Computer,some school,normal,offline,85,84,84.5
+female,Mobile,college,normal,online,52,58,55
+female,Laptop,some school,stressed,online,27,34,30.5
+male,Mobile,college,normal,online,59,60,59.5
+male,Tablet,bachelor's degree,stressed,offline,49,58,53.5
+male,Mobile,school,normal,offline,69,58,63.5
+male,Mobile,bachelor's degree,stressed,online,61,66,63.5
+female,Tablet,some school,stressed,online,44,64,54
+female,Laptop,some school,normal,online,73,84,78.5
+male,Mobile,college,normal,online,84,77,80.5
+female,Mobile,college,stressed,offline,45,73,59
+male,Laptop,some school,normal,online,74,74,74
+female,Laptop,college,normal,offline,82,97,89.5
+female,Laptop,bachelor's degree,normal,online,59,70,64.5
+male,Mobile,associate's degree,stressed,online,46,43,44.5
+female,Laptop,some school,normal,online,80,90,85
+female,Laptop,college,stressed,offline,85,95,90
+female,Tablet,some school,normal,online,71,83,77
+male,Tablet,bachelor's degree,normal,online,66,64,65
+female,Computer,associate's degree,normal,online,80,86,83
+male,Mobile,associate's degree,normal,offline,87,100,93.5
+male,Mobile,college,stressed,online,79,81,80
+female,Mobile,some school,stressed,online,38,49,43.5
+female,Tablet,some school,stressed,online,38,43,40.5
+female,Mobile,college,normal,online,67,76,71.5
+female,Mobile,bachelor's degree,normal,online,64,73,68.5
+female,Mobile,associate's degree,stressed,online,57,78,67.5
+female,Laptop,school,normal,online,62,64,63
+male,Laptop,college,normal,online,73,70,71.5
+male,Mobile,some school,stressed,offline,73,67,70
+female,Laptop,college,normal,online,77,68,72.5
+male,Mobile,college,normal,online,76,67,71.5
+male,Mobile,associate's degree,normal,offline,57,54,55.5
+female,Mobile,some school,normal,offline,65,74,69.5
+male,Tablet,school,stressed,online,48,45,46.5
+female,Computer,school,stressed,online,50,67,58.5
+female,Mobile,associate's degree,normal,online,85,89,87
+male,Computer,some school,normal,online,74,63,68.5
+male,Laptop,some school,normal,online,60,59,59.5
+female,Mobile,some school,normal,offline,59,54,56.5
+male,Tablet,college,normal,online,53,43,48
+female,Tablet,college,stressed,online,49,65,57
+female,Laptop,school,normal,offline,88,99,93.5
+female,Mobile,school,normal,online,54,59,56.5
+female,Mobile,some school,normal,online,63,73,68
+male,Computer,associate's degree,normal,offline,65,65,65
+female,Computer,associate's degree,normal,online,82,80,81
+female,Laptop,school,stressed,offline,52,57,54.5
+male,Laptop,associate's degree,normal,offline,87,84,85.5
+female,Laptop,college,normal,offline,70,71,70.5
+male,Mobile,college,normal,offline,84,83,83.5
+male,Laptop,associate's degree,normal,online,71,66,68.5
+male,Computer,some school,normal,offline,63,67,65
+female,Mobile,bachelor's degree,stressed,offline,51,72,61.5
+male,Mobile,school,normal,online,84,73,78.5
+male,Mobile,bachelor's degree,normal,offline,71,74,72.5
+male,Mobile,associate's degree,normal,online,74,73,73.5
+male,Laptop,college,normal,online,68,59,63.5
+male,Mobile,school,stressed,offline,57,56,56.5
+female,Mobile,associate's degree,stressed,offline,82,93,87.5
+female,Laptop,school,normal,offline,57,58,57.5
+female,Laptop,college,stressed,offline,47,58,52.5
+female,Tablet,some school,normal,offline,59,85,72
+male,Computer,college,stressed,online,41,39,40
+female,Mobile,college,stressed,online,62,67,64.5
+male,Mobile,bachelor's degree,normal,online,86,83,84.5
+male,Mobile,some school,stressed,online,69,71,70
+male,Tablet,some school,stressed,online,65,59,62
+male,Mobile,some school,stressed,online,68,63,65.5
+male,Mobile,associate's degree,stressed,online,64,66,65
+female,Mobile,school,normal,online,61,72,66.5
+male,Mobile,school,normal,online,61,56,58.5
+female,Tablet,some school,stressed,online,47,59,53
+male,Mobile,some school,normal,online,73,66,69.5
+male,Mobile,college,stressed,offline,50,48,49
+male,Laptop,associate's degree,normal,online,75,68,71.5
+male,Laptop,associate's degree,stressed,online,75,66,70.5
+male,Mobile,school,normal,online,70,56,63
+male,Laptop,some school,normal,offline,89,88,88.5
+female,Mobile,college,normal,offline,67,81,74
+female,Laptop,school,normal,online,78,81,79.5
+female,Tablet,some school,stressed,online,59,73,66
+female,Computer,associate's degree,normal,online,73,83,78
+male,Tablet,some school,stressed,online,79,82,80.5
+female,Mobile,some school,normal,offline,67,74,70.5
+male,Laptop,college,stressed,online,69,66,67.5
+male,Mobile,school,normal,offline,86,81,83.5
+male,Computer,school,normal,online,47,46,46.5
+male,Computer,associate's degree,normal,online,81,73,77
+female,Mobile,college,stressed,offline,64,85,74.5
+female,Mobile,college,normal,online,100,92,96
+female,Mobile,associate's degree,stressed,online,65,77,71
+male,Mobile,college,stressed,online,65,58,61.5
+female,Mobile,associate's degree,stressed,online,53,61,57
+male,Mobile,bachelor's degree,stressed,online,37,56,46.5
+female,Laptop,bachelor's degree,normal,online,79,89,84
+male,Laptop,associate's degree,stressed,online,53,54,53.5
+female,Mobile,bachelor's degree,normal,online,100,100,100
+male,Computer,school,normal,offline,72,65,68.5
+male,Mobile,bachelor's degree,stressed,online,53,58,55.5
+male,Computer,college,stressed,online,54,54,54
+female,Mobile,college,normal,online,71,70,70.5
+female,Mobile,college,stressed,online,77,90,83.5
+male,Tablet,bachelor's degree,normal,offline,75,58,66.5
+female,Mobile,college,normal,online,84,87,85.5
+female,Laptop,associate's degree,stressed,online,26,31,28.5
+male,Tablet,school,stressed,offline,72,67,69.5
+female,Tablet,school,stressed,offline,77,88,82.5
+male,Mobile,college,normal,online,91,74,82.5
+female,Mobile,associate's degree,normal,offline,83,85,84
+female,Mobile,school,normal,online,63,69,66
+female,Mobile,associate's degree,normal,offline,68,86,77
+female,Laptop,some school,normal,online,59,67,63
+female,Computer,associate's degree,normal,offline,90,90,90
+female,Laptop,bachelor's degree,normal,offline,71,76,73.5
+male,Mobile,bachelor's degree,normal,offline,76,62,69
+male,Laptop,associate's degree,normal,online,80,68,74
+female,Laptop,college,normal,online,55,64,59.5
+male,Mobile,associate's degree,normal,online,76,71,73.5
+male,Computer,school,normal,offline,73,71,72
+female,Laptop,associate's degree,stressed,online,52,59,55.5
+male,Mobile,college,stressed,online,68,68,68
+male,Tablet,school,normal,online,59,52,55.5
+female,Computer,associate's degree,normal,online,49,52,50.5
+male,Mobile,school,normal,online,70,74,72
+male,Laptop,college,stressed,online,61,47,54
+female,Mobile,associate's degree,stressed,online,60,75,67.5
+male,Computer,some school,normal,offline,64,53,58.5
+male,Tablet,associate's degree,stressed,offline,79,82,80.5
+female,Tablet,associate's degree,stressed,online,65,85,75
+female,Mobile,associate's degree,normal,online,64,64,64
+female,Mobile,college,normal,online,83,83,83
+female,Mobile,bachelor's degree,normal,online,81,88,84.5
+female,Computer,school,normal,online,54,64,59
+male,Laptop,school,normal,offline,68,64,66
+female,Mobile,college,normal,online,54,48,51
+female,Laptop,college,stressed,offline,59,78,68.5
+female,Computer,some school,normal,online,66,69,67.5
+male,Mobile,college,normal,online,76,71,73.5
+female,Laptop,college,normal,online,74,79,76.5
+female,Computer,associate's degree,normal,offline,94,87,90.5
+male,Mobile,college,stressed,online,63,61,62
+female,Mobile,associate's degree,normal,offline,95,89,92
+female,Laptop,college,stressed,online,40,59,49.5
+female,Computer,some school,normal,online,82,82,82
+male,Tablet,school,normal,online,68,70,69
+male,Computer,bachelor's degree,stressed,online,55,59,57
+male,Mobile,college,normal,online,79,78,78.5
+female,Mobile,bachelor's degree,normal,online,86,92,89
+male,Laptop,college,normal,online,76,71,73.5
+male,Tablet,some school,normal,online,64,50,57
+male,Laptop,some school,stressed,online,62,49,55.5
+female,Computer,some school,normal,offline,54,61,57.5
+female,Computer,college,stressed,offline,77,97,87
+female,Mobile,some school,normal,offline,76,87,81.5
+female,Laptop,college,normal,online,74,89,81.5
+female,Mobile,college,normal,offline,66,74,70
+female,Laptop,some school,normal,offline,66,78,72
+female,Computer,school,stressed,offline,67,78,72.5
+male,Laptop,college,normal,online,71,49,60
+female,Mobile,associate's degree,normal,online,91,86,88.5
+male,Laptop,bachelor's degree,normal,online,69,58,63.5
+male,Mobile,college,stressed,online,54,59,56.5
+male,Mobile,school,normal,offline,53,52,52.5
+male,Mobile,college,normal,online,68,60,64
+male,Mobile,some school,stressed,offline,56,61,58.5
+female,Mobile,school,stressed,online,36,53,44.5
+female,Laptop,bachelor's degree,stressed,online,29,41,35
+female,Mobile,associate's degree,normal,online,62,74,68
+female,Mobile,associate's degree,normal,offline,68,67,67.5
+female,Mobile,some school,normal,online,47,54,50.5
+male,Mobile,associate's degree,normal,offline,62,61,61.5
+female,Mobile,associate's degree,normal,offline,79,88,83.5
+male,Computer,school,normal,offline,73,69,71
+female,Mobile,bachelor's degree,stressed,offline,66,83,74.5
+male,Mobile,associate's degree,normal,offline,51,60,55.5
+female,Laptop,school,normal,online,51,66,58.5
+male,Mobile,bachelor's degree,normal,offline,85,66,75.5
+male,Tablet,associate's degree,normal,offline,97,92,94.5
+male,Mobile,school,normal,offline,75,69,72
+male,Laptop,associate's degree,stressed,offline,79,82,80.5
+female,Mobile,associate's degree,normal,online,81,77,79
+female,Laptop,associate's degree,normal,online,82,95,88.5
+female,Laptop,college,normal,online,64,63,63.5
+male,Mobile,some school,stressed,offline,78,83,80.5
+female,Tablet,some school,normal,offline,92,100,96
+male,Mobile,school,normal,offline,72,67,69.5
+female,Mobile,school,stressed,online,62,67,64.5
+male,Mobile,college,normal,online,79,72,75.5
+male,Mobile,some school,stressed,online,79,76,77.5
+male,Computer,bachelor's degree,stressed,offline,87,90,88.5
+female,Computer,associate's degree,normal,online,40,48,44
+male,Laptop,college,stressed,online,77,62,69.5
+male,Mobile,associate's degree,normal,online,53,45,49
+female,Mobile,college,stressed,online,32,39,35.5
+female,Mobile,associate's degree,normal,offline,55,72,63.5
+male,Mobile,college,stressed,online,61,67,64
+female,Computer,associate's degree,stressed,online,53,70,61.5
+male,Laptop,some school,normal,online,73,66,69.5
+female,Laptop,college,normal,offline,74,75,74.5
+female,Mobile,college,normal,online,63,74,68.5
+male,Mobile,bachelor's degree,normal,offline,96,90,93
+female,Laptop,college,stressed,offline,63,80,71.5
+male,Computer,bachelor's degree,stressed,online,48,51,49.5
+male,Computer,associate's degree,normal,online,48,43,45.5
+female,Mobile,bachelor's degree,stressed,offline,92,100,96
+female,Laptop,college,stressed,offline,61,71,66
+male,Computer,school,stressed,online,63,48,55.5
+male,Laptop,bachelor's degree,stressed,online,68,68,68
+male,Computer,college,normal,offline,71,75,73
+male,Tablet,bachelor's degree,normal,online,91,96,93.5
+female,Mobile,college,normal,online,53,62,57.5
+female,Mobile,school,stressed,offline,50,66,58
+female,Mobile,school,normal,online,74,81,77.5
+male,Tablet,associate's degree,stressed,offline,40,55,47.5
+male,Tablet,college,normal,offline,61,51,56
+female,Computer,school,normal,online,81,91,86
+female,Computer,college,stressed,offline,48,56,52
+female,Laptop,college,normal,online,53,61,57
+female,Laptop,some school,normal,online,81,97,89
+female,Mobile,some school,normal,online,77,79,78
+female,Laptop,bachelor's degree,stressed,online,63,73,68
+female,Laptop,associate's degree,normal,offline,73,75,74
+female,Laptop,college,normal,online,69,77,73
+female,Mobile,associate's degree,normal,online,65,76,70.5
+female,Tablet,school,normal,online,55,73,64
+female,Mobile,bachelor's degree,stressed,online,44,63,53.5
+female,Mobile,college,normal,online,54,64,59
+female,Tablet,some school,normal,online,48,66,57
+male,Mobile,college,stressed,online,58,57,57.5
+male,Tablet,some school,normal,online,71,62,66.5
+male,Mobile,bachelor's degree,normal,online,68,68,68
+female,Mobile,school,normal,online,74,76,75
+female,Mobile,bachelor's degree,normal,offline,92,100,96
+female,Mobile,bachelor's degree,normal,offline,56,79,67.5
+male,Computer,school,stressed,online,30,24,27
+male,Tablet,some school,normal,online,53,54,53.5
+female,Laptop,school,normal,online,69,77,73
+female,Laptop,some school,normal,online,65,82,73.5
+female,Laptop,college,normal,online,54,60,57
+female,Mobile,school,normal,online,29,29,29
+female,Mobile,college,normal,online,76,78,77
+male,Laptop,school,stressed,online,60,57,58.5
+male,Laptop,college,stressed,offline,84,89,86.5
+male,Mobile,some school,normal,online,75,72,73.5
+female,Mobile,associate's degree,normal,online,85,84,84.5
+female,Mobile,college,stressed,online,40,58,49
+female,Mobile,college,normal,online,61,64,62.5
+female,Computer,associate's degree,normal,online,58,63,60.5
+male,Laptop,college,stressed,offline,69,60,64.5
+female,Mobile,college,normal,online,58,59,58.5
+male,Mobile,bachelor's degree,normal,offline,94,90,92
+female,Mobile,associate's degree,normal,online,65,77,71
+female,Tablet,associate's degree,normal,online,82,93,87.5
+female,Mobile,school,normal,online,60,68,64
+female,Mobile,bachelor's degree,normal,online,37,45,41
+male,Laptop,bachelor's degree,normal,online,88,78,83
+male,Laptop,college,normal,online,95,81,88
+male,Mobile,associate's degree,stressed,offline,65,73,69
+female,Mobile,school,stressed,online,35,61,48
+male,Computer,bachelor's degree,stressed,online,62,63,62.5
+male,Mobile,school,stressed,offline,58,51,54.5
+male,Tablet,college,normal,offline,100,96,98
+female,Mobile,bachelor's degree,stressed,online,61,58,59.5
+male,Laptop,college,normal,offline,100,97,98.5
+male,Computer,associate's degree,stressed,offline,69,70,69.5
+male,Laptop,associate's degree,normal,online,61,48,54.5
+male,Laptop,college,stressed,online,49,57,53
+female,Mobile,some school,normal,offline,44,51,47.5
+male,Laptop,college,normal,online,67,64,65.5
+male,Computer,school,normal,online,79,60,69.5
+female,Computer,bachelor's degree,normal,offline,66,74,70
+female,Mobile,school,normal,online,75,88,81.5
+male,Laptop,some school,normal,online,84,84,84
+male,Tablet,school,normal,online,71,74,72.5
+female,Computer,school,stressed,offline,67,80,73.5
+female,Laptop,some school,normal,offline,80,92,86
+male,Mobile,college,normal,online,86,76,81
+female,Laptop,associate's degree,normal,online,76,74,75
+male,Laptop,school,normal,online,41,52,46.5
+female,Laptop,associate's degree,stressed,offline,74,88,81
+female,Computer,some school,stressed,online,72,81,76.5
+female,Mobile,school,normal,offline,74,79,76.5
+male,Computer,school,normal,online,70,65,67.5
+female,Computer,bachelor's degree,normal,offline,65,81,73
+female,Laptop,associate's degree,normal,online,59,70,64.5
+female,Mobile,school,stressed,online,64,62,63
+female,Computer,school,normal,online,50,53,51.5
+female,Laptop,college,normal,offline,69,79,74
+male,Mobile,some school,stressed,offline,51,56,53.5
+female,Tablet,school,normal,offline,68,80,74
+female,Laptop,college,normal,offline,85,86,85.5
+female,Tablet,associate's degree,normal,offline,65,70,67.5
+female,Computer,some school,normal,online,73,79,76
+female,Computer,college,normal,online,62,67,64.5
+male,Mobile,associate's degree,stressed,online,77,67,72
+male,Laptop,some school,normal,online,69,66,67.5
+female,Laptop,associate's degree,stressed,online,43,60,51.5
+male,Laptop,associate's degree,normal,online,90,87,88.5
+male,Mobile,college,stressed,online,74,77,75.5
+male,Mobile,some school,normal,online,73,66,69.5
+female,Laptop,college,stressed,online,55,71,63
+female,Mobile,school,normal,online,65,69,67
+male,Laptop,associate's degree,normal,online,80,63,71.5
+female,Mobile,some school,stressed,offline,50,60,55
+female,Mobile,college,stressed,offline,63,73,68
+female,Computer,bachelor's degree,stressed,online,77,85,81
+male,Mobile,college,normal,online,73,74,73.5
+male,Laptop,associate's degree,normal,offline,81,72,76.5
+female,Mobile,school,stressed,online,66,76,71
+male,Laptop,associate's degree,stressed,online,52,57,54.5
+female,Mobile,college,normal,online,69,78,73.5
+female,Mobile,associate's degree,normal,offline,65,84,74.5
+female,Laptop,school,normal,offline,69,77,73
+female,Computer,college,normal,offline,50,64,57
+female,Mobile,college,normal,offline,73,78,75.5
+female,Mobile,some school,normal,offline,70,82,76
+male,Laptop,associate's degree,stressed,online,81,75,78
+male,Laptop,college,stressed,online,63,61,62
+female,Laptop,school,normal,online,67,72,69.5
+male,Computer,school,normal,online,60,68,64
+male,Computer,school,normal,online,62,55,58.5
+female,Mobile,some school,stressed,offline,29,40,34.5
+male,Computer,college,normal,offline,62,66,64
+female,Mobile,college,normal,offline,94,99,96.5
+male,Mobile,college,normal,offline,85,75,80
+male,Laptop,associate's degree,stressed,online,77,78,77.5
+male,Tablet,school,stressed,online,53,58,55.5
+male,Mobile,college,stressed,online,93,90,91.5
+female,Mobile,associate's degree,normal,online,49,53,51
+female,Mobile,associate's degree,stressed,online,73,76,74.5
+female,Mobile,bachelor's degree,stressed,offline,66,74,70
+female,Laptop,associate's degree,normal,online,77,77,77
+female,Mobile,some school,normal,online,49,63,56
+female,Laptop,college,stressed,online,79,89,84
+female,Mobile,associate's degree,normal,offline,75,82,78.5
+female,Tablet,bachelor's degree,normal,online,59,72,65.5
+female,Laptop,associate's degree,normal,offline,57,78,67.5
+male,Mobile,school,stressed,online,66,66,66
+female,Mobile,bachelor's degree,normal,offline,79,81,80
+female,Computer,some school,normal,online,57,67,62
+male,Tablet,bachelor's degree,normal,offline,87,84,85.5
+female,Laptop,college,normal,online,63,64,63.5
+female,Computer,some school,stressed,offline,59,63,61
+male,Tablet,bachelor's degree,stressed,online,62,72,67
+male,Laptop,school,normal,online,46,34,40
+male,Mobile,college,normal,online,66,59,62.5
+male,Laptop,school,normal,online,89,87,88
+female,Laptop,associate's degree,stressed,offline,42,61,51.5
+male,Mobile,college,normal,offline,93,84,88.5
+female,Mobile,some school,normal,offline,80,85,82.5
+female,Laptop,college,normal,online,98,100,99
+male,Laptop,college,normal,online,81,81,81
+female,Computer,some school,normal,offline,60,70,65
+female,Computer,associate's degree,stressed,offline,76,94,85
+male,Mobile,associate's degree,normal,offline,73,78,75.5
+female,Mobile,associate's degree,normal,offline,96,96,96
+female,Mobile,school,normal,online,76,76,76
+male,Mobile,associate's degree,stressed,offline,91,73,82
+female,Mobile,college,stressed,online,62,72,67
+male,Laptop,some school,stressed,offline,55,59,57
+female,Computer,some school,stressed,offline,74,90,82
+male,Mobile,school,normal,online,50,48,49
+male,Computer,college,normal,online,47,43,45
+male,Mobile,college,normal,offline,81,74,77.5
+female,Mobile,associate's degree,normal,offline,65,75,70
+male,Mobile,some school,normal,offline,68,51,59.5
+female,Laptop,school,stressed,online,73,92,82.5
+male,Mobile,college,normal,online,53,39,46
+female,Computer,associate's degree,stressed,offline,68,77,72.5
+male,Tablet,some school,stressed,online,55,46,50.5
+female,Mobile,college,normal,offline,87,89,88
+male,Laptop,some school,normal,online,55,47,51
+female,Mobile,college,stressed,online,53,58,55.5
+male,Mobile,college,normal,online,67,57,62
+male,Mobile,associate's degree,normal,online,92,79,85.5
+female,Computer,college,stressed,offline,53,66,59.5
+male,Laptop,associate's degree,normal,online,81,71,76
+male,Mobile,school,stressed,online,61,60,60.5
+male,Laptop,bachelor's degree,normal,online,80,73,76.5
+female,Tablet,associate's degree,stressed,online,37,57,47
+female,Mobile,school,normal,online,81,84,82.5
+female,Mobile,associate's degree,normal,offline,59,73,66
+male,Computer,college,stressed,online,55,55,55
+male,Laptop,associate's degree,normal,online,72,79,75.5
+male,Laptop,school,normal,online,69,75,72
+male,Mobile,college,normal,online,69,64,66.5
+female,Mobile,bachelor's degree,stressed,online,50,60,55
+male,Computer,college,normal,offline,87,84,85.5
+male,Laptop,some school,normal,offline,71,69,70
+male,Mobile,college,normal,online,68,72,70
+male,Mobile,college,stressed,offline,79,77,78
+female,Mobile,some school,normal,offline,77,90,83.5
+male,Mobile,associate's degree,stressed,online,58,55,56.5
+female,Mobile,associate's degree,normal,online,84,95,89.5
+male,Laptop,college,normal,online,55,58,56.5
+male,Mobile,bachelor's degree,stressed,offline,70,68,69
+female,Laptop,college,stressed,offline,52,59,55.5
+male,Computer,college,normal,offline,69,77,73
+female,Mobile,school,stressed,online,53,72,62.5
+female,Laptop,some school,normal,online,48,58,53
+male,Laptop,some school,normal,offline,78,81,79.5
+female,Computer,school,normal,online,62,62,62
+male,Laptop,college,normal,online,60,63,61.5
+female,Computer,school,normal,online,74,72,73
+female,Mobile,school,normal,offline,58,75,66.5
+male,Computer,school,normal,offline,76,62,69
+female,Laptop,some school,normal,online,68,71,69.5
+male,Tablet,college,stressed,online,58,60,59
+male,Computer,school,normal,online,52,48,50
+male,Laptop,bachelor's degree,normal,online,75,73,74
+female,Computer,some school,stressed,offline,52,67,59.5
+female,Mobile,bachelor's degree,stressed,online,62,78,70
+male,Computer,college,normal,online,66,65,65.5
+female,Computer,some school,stressed,online,49,58,53.5
+female,Computer,school,normal,online,66,72,69
+female,Mobile,college,stressed,online,35,44,39.5
+female,Tablet,college,normal,offline,72,79,75.5
+male,Mobile,associate's degree,normal,offline,94,85,89.5
+female,Laptop,associate's degree,stressed,online,46,56,51
+female,Computer,college,normal,online,77,90,83.5
+female,Computer,school,stressed,offline,76,85,80.5
+female,Mobile,associate's degree,normal,offline,52,59,55.5
+male,Mobile,bachelor's degree,normal,offline,91,81,86
+female,Computer,some school,normal,offline,32,51,41.5
+female,Mobile,some school,stressed,online,72,79,75.5
+female,Computer,college,normal,online,19,38,28.5
+male,Mobile,associate's degree,stressed,online,68,65,66.5
+female,Mobile,college,stressed,online,52,65,58.5
+female,Computer,school,normal,online,48,62,55
+female,Laptop,college,stressed,online,60,66,63
+male,Laptop,school,stressed,online,66,74,70
+male,Mobile,some school,normal,offline,89,84,86.5
+female,Computer,school,normal,online,42,52,47
+female,Mobile,associate's degree,stressed,offline,57,68,62.5
+male,Laptop,school,normal,online,70,70,70
+female,Mobile,associate's degree,stressed,online,70,84,77
+male,Mobile,college,normal,online,69,60,64.5
+female,Mobile,associate's degree,normal,online,52,55,53.5
+male,Mobile,some school,normal,offline,67,73,70
+male,Mobile,some school,normal,offline,76,80,78
+female,Mobile,associate's degree,normal,online,87,94,90.5
+female,Computer,college,normal,online,82,85,83.5
+female,Mobile,college,normal,online,73,76,74.5
+male,Tablet,college,stressed,online,75,81,78
+female,Laptop,college,stressed,online,64,74,69
+female,Mobile,school,stressed,online,41,45,43
+male,Mobile,school,normal,online,90,75,82.5
+male,Computer,bachelor's degree,normal,online,59,54,56.5
+male,Tablet,some school,normal,online,51,31,41
+male,Tablet,school,stressed,online,45,47,46
+female,Mobile,college,normal,offline,54,64,59
+male,Mobile,some school,normal,offline,87,84,85.5
+female,Mobile,school,normal,online,72,80,76
+male,Computer,some school,normal,offline,94,86,90
+female,Tablet,bachelor's degree,normal,online,45,59,52
+male,Laptop,bachelor's degree,stressed,offline,61,70,65.5
+female,Computer,school,stressed,online,60,72,66
+female,Mobile,some school,normal,online,77,91,84
+female,Tablet,some school,normal,offline,85,90,87.5
+female,Laptop,bachelor's degree,stressed,online,78,90,84
+male,Mobile,college,stressed,offline,49,52,50.5
+female,Computer,school,stressed,online,71,87,79
+female,Mobile,some school,stressed,online,48,58,53
+male,Mobile,school,normal,online,62,67,64.5
+female,Mobile,associate's degree,stressed,offline,56,68,62
+female,Mobile,some school,normal,online,65,69,67
+female,Laptop,some school,stressed,offline,69,86,77.5
+male,Computer,some school,normal,online,68,54,61
+female,Tablet,college,stressed,online,61,60,60.5
+female,Mobile,bachelor's degree,stressed,offline,74,86,80
+male,Tablet,bachelor's degree,normal,online,64,60,62
+female,Computer,school,normal,offline,77,82,79.5
+male,Computer,college,normal,online,58,50,54
+female,Mobile,school,normal,offline,60,64,62
+male,Mobile,school,normal,online,73,64,68.5
+female,Tablet,school,normal,offline,75,82,78.5
+male,Computer,associate's degree,stressed,offline,58,57,57.5
+female,Mobile,associate's degree,normal,online,66,77,71.5
+female,Laptop,school,stressed,online,39,52,45.5
+male,Mobile,some school,normal,online,64,58,61
+female,Computer,school,stressed,offline,23,44,33.5
+male,Computer,college,stressed,offline,74,77,75.5
+female,Laptop,some school,stressed,offline,40,65,52.5
+male,Mobile,college,normal,online,90,85,87.5
+male,Mobile,college,normal,offline,91,85,88
+male,Laptop,school,normal,online,64,54,59
+female,Mobile,school,normal,online,59,72,65.5
+male,Laptop,associate's degree,normal,online,80,75,77.5
+male,Mobile,college,normal,online,71,67,69
+female,Tablet,school,normal,online,61,68,64.5
+female,Mobile,college,normal,online,87,85,86
+male,Mobile,some school,normal,online,82,67,74.5
+male,Mobile,some school,normal,online,62,64,63
+female,Computer,bachelor's degree,normal,online,97,97,97
+male,Computer,college,stressed,online,75,68,71.5
+female,Mobile,bachelor's degree,normal,online,65,79,72
+male,Computer,school,normal,offline,52,49,50.5
+male,Mobile,associate's degree,stressed,online,87,73,80
+female,Mobile,associate's degree,normal,online,53,62,57.5
+female,Mobile,college,stressed,online,81,86,83.5
+male,Laptop,bachelor's degree,stressed,offline,39,42,40.5
+female,Mobile,college,normal,offline,71,71,71
+male,Mobile,associate's degree,normal,online,97,93,95
+male,Laptop,college,normal,offline,82,82,82
+male,Mobile,school,stressed,online,59,53,56
+male,Computer,associate's degree,normal,online,61,42,51.5
+male,Mobile,associate's degree,stressed,offline,78,74,76
+male,Mobile,associate's degree,stressed,online,49,51,50
+male,Computer,school,normal,online,59,58,58.5
+female,Mobile,college,normal,offline,70,72,71
+male,Computer,associate's degree,normal,offline,82,84,83
+male,Mobile,associate's degree,stressed,online,90,90,90
+female,Mobile,bachelor's degree,stressed,online,43,62,52.5
+male,Mobile,college,stressed,online,80,64,72
+male,Laptop,college,normal,online,81,82,81.5
+male,Mobile,some school,normal,online,57,61,59
+female,Laptop,some school,normal,online,59,72,65.5
+female,Laptop,associate's degree,normal,online,64,76,70
+male,Mobile,bachelor's degree,normal,offline,63,64,63.5
+female,Mobile,bachelor's degree,normal,offline,71,70,70.5
+female,Computer,school,stressed,online,64,73,68.5
+male,Laptop,bachelor's degree,stressed,online,55,46,50.5
+female,Mobile,associate's degree,normal,online,51,51,51
+female,Mobile,associate's degree,normal,offline,62,76,69
+female,Mobile,associate's degree,normal,offline,93,100,96.5
+male,Mobile,school,stressed,online,54,72,63
+female,Laptop,college,stressed,online,69,65,67
+male,Laptop,school,stressed,online,44,51,47.5
+female,Mobile,college,normal,offline,86,85,85.5
+female,Mobile,associate's degree,normal,online,85,92,88.5
+female,Tablet,college,stressed,online,50,67,58.5
+male,Laptop,some school,normal,offline,88,74,81
+female,Mobile,associate's degree,normal,online,59,62,60.5
+female,Mobile,some school,stressed,online,32,34,33
+male,Computer,school,stressed,online,36,29,32.5
+female,Computer,some school,stressed,offline,63,78,70.5
+male,Laptop,associate's degree,normal,offline,67,54,60.5
+female,Laptop,some school,normal,offline,65,78,71.5
+male,Laptop,college,normal,online,85,84,84.5
+female,Mobile,college,normal,online,73,78,75.5
+female,Tablet,school,stressed,offline,34,48,41
+female,Laptop,bachelor's degree,stressed,offline,93,100,96.5
+female,Laptop,some school,stressed,online,67,84,75.5
+male,Laptop,college,normal,online,88,77,82.5
+male,Computer,school,normal,online,57,48,52.5
+female,Laptop,college,normal,offline,79,84,81.5
+female,Mobile,bachelor's degree,stressed,online,67,75,71
+male,Mobile,bachelor's degree,normal,offline,70,64,67
+male,Laptop,bachelor's degree,stressed,online,50,42,46
+female,Tablet,college,normal,online,69,84,76.5
+female,Mobile,bachelor's degree,normal,offline,52,61,56.5
+female,Mobile,bachelor's degree,stressed,offline,47,62,54.5
+female,Computer,associate's degree,stressed,online,46,61,53.5
+female,Mobile,college,normal,online,68,70,69
+male,Mobile,bachelor's degree,normal,offline,100,100,100
+female,Mobile,school,normal,online,44,61,52.5
+female,Mobile,associate's degree,normal,offline,57,77,67
+male,Computer,college,normal,offline,91,96,93.5
+male,Laptop,school,stressed,online,69,70,69.5
+female,Mobile,school,stressed,online,35,53,44
+male,Laptop,school,normal,online,72,66,69
+female,Computer,associate's degree,stressed,online,54,65,59.5
+male,Laptop,school,stressed,online,74,70,72
+male,Mobile,some school,normal,offline,74,64,69
+male,Mobile,associate's degree,stressed,online,64,56,60
+female,Laptop,school,stressed,offline,65,61,63
+male,Mobile,associate's degree,stressed,offline,46,43,44.5
+female,Mobile,some school,stressed,online,48,56,52
+male,Mobile,college,stressed,offline,67,74,70.5
+male,Laptop,college,stressed,online,62,57,59.5
+male,Laptop,associate's degree,stressed,offline,61,71,66
+male,Mobile,bachelor's degree,stressed,offline,70,75,72.5
+male,Mobile,associate's degree,normal,offline,98,87,92.5
+male,Laptop,college,stressed,online,70,63,66.5
+male,Tablet,associate's degree,normal,online,67,57,62
+female,Mobile,school,stressed,online,57,58,57.5
+male,Laptop,college,normal,offline,85,81,83
+male,Laptop,some school,normal,offline,77,68,72.5
+male,Mobile,college,stressed,offline,72,66,69
+female,Laptop,college,normal,online,78,91,84.5
+male,Mobile,school,normal,online,81,66,73.5
+male,Tablet,some school,stressed,offline,61,62,61.5
+female,Computer,school,normal,online,58,68,63
+female,Mobile,associate's degree,normal,online,54,61,57.5
+male,Computer,school,normal,online,82,82,82
+female,Laptop,college,stressed,online,49,58,53.5
+male,Computer,some school,stressed,offline,49,50,49.5
+female,Mobile,school,stressed,offline,57,75,66
+male,Mobile,school,normal,online,94,73,83.5
+female,Laptop,college,normal,offline,75,77,76
+female,Mobile,some school,stressed,online,74,74,74
+male,Mobile,school,normal,offline,58,52,55
+female,Mobile,college,normal,online,62,69,65.5
+male,Mobile,associate's degree,normal,online,72,57,64.5
+male,Mobile,college,normal,online,84,87,85.5
+female,Laptop,college,normal,online,92,100,96
+female,Laptop,school,normal,online,45,63,54
+male,Mobile,school,normal,online,75,81,78
+female,Tablet,college,normal,online,56,58,57
+female,Laptop,some school,stressed,online,48,54,51
+female,Mobile,associate's degree,normal,online,100,100,100
+female,Mobile,some school,stressed,offline,65,76,70.5
+male,Laptop,college,normal,online,72,57,64.5
+female,Laptop,college,normal,online,62,70,66
+male,Tablet,some school,normal,offline,66,68,67
+male,Mobile,college,normal,online,63,63,63
+female,Mobile,associate's degree,normal,online,68,76,72
+female,Computer,bachelor's degree,normal,online,75,84,79.5
+female,Laptop,bachelor's degree,normal,online,89,100,94.5
+male,Mobile,some school,normal,offline,78,72,75
+female,Tablet,school,stressed,offline,53,50,51.5
+female,Laptop,college,stressed,online,49,65,57
+female,Tablet,college,normal,online,54,63,58.5
+female,Mobile,college,normal,offline,64,82,73
+male,Computer,college,stressed,offline,60,62,61
+male,Mobile,associate's degree,normal,online,62,65,63.5
+male,Laptop,school,normal,offline,55,41,48
+female,Mobile,associate's degree,normal,online,91,95,93
+female,Computer,school,stressed,online,8,24,16
+male,Laptop,some school,normal,online,81,78,79.5
+male,Computer,some school,normal,offline,79,85,82
+female,Tablet,college,normal,offline,78,87,82.5
+female,Mobile,some school,normal,online,74,75,74.5
+male,Tablet,school,normal,online,57,51,54
+female,Mobile,associate's degree,normal,online,40,59,49.5
+male,Mobile,some school,normal,offline,81,75,78
+female,Tablet,some school,stressed,online,44,45,44.5
+female,Laptop,college,stressed,offline,67,86,76.5
+male,Mobile,school,stressed,offline,86,81,83.5
+female,Computer,some school,normal,offline,65,82,73.5
+female,Laptop,associate's degree,stressed,online,55,76,65.5
+female,Laptop,bachelor's degree,stressed,online,62,72,67
+male,Tablet,school,normal,online,63,63,63
+female,Mobile,college,normal,offline,88,99,93.5
+male,Mobile,school,stressed,online,62,55,58.5
+female,Mobile,school,stressed,offline,59,71,65
+female,Laptop,college,normal,offline,68,78,73
+female,Laptop,college,stressed,online,77,86,81.5
