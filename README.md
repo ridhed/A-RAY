@@ -4,3 +4,5 @@
 
 # A-RAY-TECHSAKSHAM
 The website's objective is to give students a platform to enhance their well-being and aid them in overcoming the consequences of emotions experienced in the classroom.
+![Screenshot 2025-01-10 181503](https://github.com/user-attachments/assets/7905ff74-4539-4380-9fd7-1f0c245dc095)
+![Screenshot 2025-01-10 181533](https://github.com/user-attachments/assets/22b359b7-64dc-4ddf-b87c-0a8d92d9c246)
